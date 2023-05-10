@@ -1,8 +1,7 @@
-# FPGA
-FPGA^2, an OSHW FPGA, initially running in its own online circuit simulator.
+# Corebase
 
-This operates under the CERN-OHL-P licence.
-The file is a placeholder, subjuect to amendment.
-The first online presence for this project, is http://freedom.is/svg
+A proposal for an in-person hardware meetup, probably in Bristol.
 
-There is no Verilog for this FPGA yet; it is purely a parameterised schematic.
+This operates under the CERN-OHL-P licence, although this is just for arranging meetings.
+
+(This file is a placeholder, subject to amendment.)
